@@ -17,8 +17,6 @@ What sets Whereabouts apart from other location-sharing applications is its inte
 **Emergency Alert System:** Enhance safety with our emergency notification feature, providing a lifeline when it matters most.
 
 ## Technology Stack
-Whereabouts is built using a powerful technology stack:
-
 **Swift:** Our core programming language, renowned for its performance and safety features.
 
 **SwiftUI:** Used for crafting our user interface, providing a seamless user experience.
