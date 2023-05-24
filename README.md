@@ -15,7 +15,11 @@ Emergency Alert System: Enhance safety with our emergency notification feature, 
 Whereabouts is built using a powerful technology stack:
 
 Swift: Our core programming language, renowned for its performance and safety features.
+
 SwiftUI: Used for crafting our user interface, providing a seamless user experience.
+
 Firebase: Our choice for back-end services, handling user authentication, data storage, and real-time updates.
+
 Apple's UWB Technology: Enables us to provide precise, short-range location tracking.
+
 CoreLocation and MapKit: Essential iOS frameworks for implementing location-based services.
