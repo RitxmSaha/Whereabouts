@@ -21,8 +21,8 @@ What sets Whereabouts apart from other location-sharing applications is its inte
 
 **SwiftUI:** Used for crafting our user interface, providing a seamless user experience.
 
-**Firebase:** Our choice for back-end services, handling user authentication, data storage, and real-time updates.
+**Firebase:** Our choice for back-end services, handling user authentication, data storage, and real-time location updates.
 
-**Apple's UWB Technology:** Enables us to provide precise, short-range location tracking.
+**Apple's UWB Technology:** Using both the NearbyInteractions Library and ARKit, we provide precise, short-range location tracking that works within 30 meters.
 
 **CoreLocation and MapKit:** Essential iOS frameworks for implementing location-based services.
