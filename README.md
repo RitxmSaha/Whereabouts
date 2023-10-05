@@ -26,3 +26,5 @@ What sets Whereabouts apart from other location-sharing applications is its inte
 **Apple's UWB Technology:** Using both the NearbyInteractions Library and ARKit, we provide precise, short-range location tracking that works within 30 meters.
 
 **CoreLocation and MapKit:** Essential iOS frameworks for implementing location-based services.
+![IMG_7031](https://github.com/RitxmSaha/Whereabouts/assets/37753762/d375d35d-fed6-4a52-a356-375b5e9c1dd0)
+![IMG_5908](https://github.com/RitxmSaha/Whereabouts/assets/37753762/f3b25b4c-6f2b-4fb8-bd40-7886bcb75c92)
